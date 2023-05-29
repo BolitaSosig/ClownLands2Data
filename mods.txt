@@ -28,7 +28,7 @@ YUNG's Better Dungeons;si;https://www.curseforge.com/minecraft/mc-mods/yungs-bet
 YUNG's API;si;https://www.curseforge.com/minecraft/mc-mods/yungs-api/download/4441682
 Creatures and Beasts;si;https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts/download/4411179
 GeckoLib;si;https://www.curseforge.com/minecraft/mc-mods/geckolib/download/4407241
-Comforts;si;https://cdn.modrinth.com/data/SaCpeal4/versions/eny6SErU/comforts-forge-6.0.5%2B1.19.2.jar
+Comforts;si;https://www.curseforge.com/minecraft/mc-mods/comforts/download/4498935
 WTHIT;no;https://www.curseforge.com/minecraft/mc-mods/wthit-forge/download/4544617
 WTHIT Harvestability;no;https://www.curseforge.com/minecraft/mc-mods/wthit-harvestability/download/3960349
 Badpackets;si;https://www.curseforge.com/minecraft/mc-mods/badpackets/download/4073854
