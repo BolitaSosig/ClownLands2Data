@@ -31,3 +31,4 @@ Comforts;si;https://www.curseforge.com/minecraft/mc-mods/comforts/download/44989
 WTHIT;no;https://www.curseforge.com/minecraft/mc-mods/wthit-forge/download/4544617
 WTHIT Harvestability;no;https://www.curseforge.com/minecraft/mc-mods/wthit-harvestability/download/3960349
 Badpackets;si;https://www.curseforge.com/minecraft/mc-mods/badpackets/download/4073854
+Alex's Mobs;si;https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/download/4159154
