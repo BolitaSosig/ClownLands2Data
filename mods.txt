@@ -19,10 +19,9 @@ ReChiseled;si;https://www.curseforge.com/minecraft/mc-mods/rechiseled/download/4
 SuperMartijn642's Core Lib;si;https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib/download/4548462
 SuperMartijn642's Config Lib;si;https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib/download/3871792
 Builder's Delight;si;https://www.curseforge.com/minecraft/mc-mods/builders-delight-forge/download/4362665
-Alex's Mobs;si;https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/download/4159154
 Sophisticated Backpacks;si;https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/download/4548454
 Sophisticated Core;si;https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/download/4548381
-MrCrayfish's Furniture Mod;si;https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/download/4374996
+MrCrayfish's Furniture Mod;no;https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/download/4374996
 When Dungeons Arise;si;https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise/download/4502573
 YUNG's Better Dungeons;si;https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons/download/4073204
 YUNG's API;si;https://www.curseforge.com/minecraft/mc-mods/yungs-api/download/4441682
