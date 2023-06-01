@@ -1,4 +1,4 @@
-Just Enough Items (JEI);no;https://www.curseforge.com/minecraft/mc-mods/jei/download/4494410
+Just Enough Items (JEI);no;https://www.curseforge.com/api/v1/mods/238222/files/4494410/download
 JourneyMap;no;https://www.curseforge.com/minecraft/mc-mods/journeymap/download/4532924
 Oh The Biomes You'll Go;si;https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go/download/4426501
 Create;si;https://www.curseforge.com/minecraft/mc-mods/create/download/4371809
