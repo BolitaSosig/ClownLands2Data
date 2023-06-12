@@ -1,3 +1,3 @@
-version:0.6
-status:starting
+version:0.7
+status:closed
 ip:25.12.116.222
