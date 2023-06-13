@@ -393,3 +393,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13jun2023 11:22:59.132] [Server thread/INFO] [WTHIT/]: [WTHIT] Plugin config reloaded
 [13jun2023 11:22:59.154] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: HELLO from server starting
 [13jun2023 11:22:59.155] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[13jun2023 11:31:04.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13jun2023 11:31:04.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13jun2023 11:31:04.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13jun2023 11:31:04.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13jun2023 11:31:04.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13jun2023 11:31:04.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13jun2023 11:31:04.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13jun2023 11:31:05.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13jun2023 11:31:05.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13jun2023 11:31:05.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13jun2023 11:31:05.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
